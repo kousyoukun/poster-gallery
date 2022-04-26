@@ -1,3 +1,3 @@
-# poster-zone
+# poster-gallery
 
-海报图床
+海报画廊
